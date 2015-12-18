@@ -11,4 +11,6 @@ Features:
 - Completely user controlled UI.
 - Lots of options for customizing Ball and Slidebar colors and size.
 - Multiple difficulty levels: Beginners, Intermediate & Expert.
-- Multiple game rounds. 
+- Multiple game rounds.
+
+# BOLD
