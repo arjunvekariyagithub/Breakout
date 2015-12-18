@@ -4,7 +4,6 @@
 - Thoug developed in C++, It offers immersive user interface and reach features that other animated games has to offer.
 - It is easy to develop the same game and UI using game engine tool such as Unity-3D but developing it in C++ is quite a
   challenging task due to lack of support for rich user interface.
-- The source code of the game will be available soon @ GitHub.
 - Take a look at actual screenshots below, captured by running source code on Turbo C++. 
 
 Features:
@@ -15,7 +14,8 @@ Features:
 
 # Screenshots
 
-![Alt text](DX-BALL/Screens/01.Screen.png?raw=true "Home screen")
+![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/01.Screen.png?raw=true)
+
 ![Alt text](DX-BALL/Screens/02.Screen.png?raw=true)
 ![Alt text](DX-BALL/Screens/03.Screen.png?raw=true)
 ![Alt text](DX-BALL/Screens/04.Screen.png?raw=true)
