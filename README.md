@@ -15,7 +15,7 @@ Features:
 
 # Screenshots
 
-![Alt text](DX-BALL/Screens/01.Screen.png?raw=true)
+![Alt text](DX-BALL/Screens/01.Screen.png?raw=true "Home screen")
 ![Alt text](DX-BALL/Screens/02.Screen.png?raw=true)
 ![Alt text](DX-BALL/Screens/03.Screen.png?raw=true)
 ![Alt text](DX-BALL/Screens/04.Screen.png?raw=true)
