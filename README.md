@@ -26,9 +26,6 @@ Features:
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/10.Screen.png?raw=true)
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/11.Screen.png?raw=true)
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/12.Screen.png?raw=true)
-![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/13.Screen.png?raw=true)
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/14.Screen.png?raw=true)
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/15.Screen.png?raw=true)
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/16.Screen.png?raw=true)
-
-
