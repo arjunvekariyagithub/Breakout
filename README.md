@@ -4,7 +4,8 @@
 - Thoug developed in C++, It offers immersive user interface and reach features that other animated games has to offer.
 - It is easy to develop the same game and UI using game engine tool such as Unity-3D but developing it in C++ is quite a
   challenging task due to lack of support for rich user interface.
-- Take a look at actual screenshots below, captured by running source code using Turbo C++ compiler. 
+- Most importantly, I have developed this game without borrowing even a single line from any other source but my brain. 
+- Take a look at actual screenshots below, captured by running source code using Turbo C++ compiler.
 
 Features:
 - Completely user controlled UI.
