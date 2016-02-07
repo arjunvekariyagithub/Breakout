@@ -13,19 +13,33 @@ Features:
 - Multiple game rounds.
 
 # Screenshots
-
+Home screen
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/01.Screen.png?raw=true)
+Menu screen
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/02.Screen.png?raw=true)
+Customize Ball and Slidebar views here
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/03.Screen.png?raw=true)
+Customize Ball size
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/04.Screen.png?raw=true)
+Customize Ball color
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/05.Screen.png?raw=true)
+Customize Ball style
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/06.Screen.png?raw=true)
+Customize Slidebar color
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/07.Screen.png?raw=true)
+Customize Slidebar size
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/08.Screen.png?raw=true)
+Choose difficulty level
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/09.Screen.png?raw=true)
+Choose game round here
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/10.Screen.png?raw=true)
+Round-1 screen
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/11.Screen.png?raw=true)
+Round-2 screen
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/12.Screen.png?raw=true)
+Round-1 screen with customized Ball and Slidebar
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/14.Screen.png?raw=true)
+Multiple slide bars at a time makes game a little more harder to play!
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/15.Screen.png?raw=true)
+Screen showing lifes remaining and current score
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/16.Screen.png?raw=true)
