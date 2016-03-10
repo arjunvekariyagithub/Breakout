@@ -8,7 +8,8 @@
         - Take a look at actual screenshots below, captured by executing source code using Turbo C++ compiler.
 
 ####Features:
-        - Completely user controlled UI.
+        - Reach user interface
+        - Complete user controlled UI.
         - Lots of options for customizing Ball and Slidebar colors and size.
         - Multiple difficulty levels: Beginners, Intermediate & Expert.
         - Multiple game rounds.
