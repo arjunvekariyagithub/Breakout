@@ -1,19 +1,19 @@
-# DX-BALL
+## DX-BALL
 
-- DX-Ball is a computer game developed in Turbo C++ using graphics libraries.
-- Thoug developed in C++, It offers immersive user interface and reach features that other animated games has to offer.
-- It is easy to develop the same game and UI using game engine tool such as Unity-3D but developing it in C++ is quite a
-  challenging task due to lack of support for rich user interface.
-- Most importantly, I have developed this game without borrowing even a single line from any other source but my brain. 
-- Take a look at actual screenshots below, captured by running source code using Turbo C++ compiler.
+        - DX-Ball is a computer game developed in Turbo C++ using graphics libraries.
+        - Thoug developed in C++, It offers immersive user interface and reach features that only animated games can offer.
+        - It is easy to develop the same game and UI using game engine tool such as Unity-3D but developing it in C++ is  
+          quite a challenging task due to lack of support for rich user interface.
+        - Most importantly, I have developed this game without borrowing even a single line of code from any other source but           my brain. 
+        - Take a look at actual screenshots below, captured by executing source code using Turbo C++ compiler.
 
-Features:
-- Completely user controlled UI.
-- Lots of options for customizing Ball and Slidebar colors and size.
-- Multiple difficulty levels: Beginners, Intermediate & Expert.
-- Multiple game rounds.
+####Features:
+        - Completely user controlled UI.
+        - Lots of options for customizing Ball and Slidebar colors and size.
+        - Multiple difficulty levels: Beginners, Intermediate & Expert.
+        - Multiple game rounds.
 
-# Screenshots
+## Screenshots
 ###1. Home screen
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/01.Screen.png?raw=true)
 ###2. Menu screen
