@@ -152,10 +152,10 @@ void play() {
 
     if (round == 1) {
         inflateRound1Layout(glob);
-    }
-    if (round == 2) {
+    } else if (round == 2) {
         inflateRound2Layout(glob);
     }
+
     z = 70;
 
     while (z != 72) {
@@ -185,11 +185,12 @@ void goDownRight() {
         if (y == 7 + ball_size && temp == TRUE && slide_2 != 1) {
             goUpRight();
         }
+
         if (y == 7 + ball_size && temp == FALSE && slide_2 != 1) {
             goUpLeft();
         }
-        if (y == bm2 + ball_size && slide_2 == 1 && (x >= L_X && x <= R_X)) // && x<=+50) //x<200
-        {
+
+        if (y == bm2 + ball_size && slide_2 == 1 && (x >= L_X && x <= R_X)) {
             temp = TRUE;
             goUpRight();
         }
@@ -197,9 +198,11 @@ void goDownRight() {
         if (x == (mx - 7) - ball_size) {
             goDownLeft();
         }
+
         fun_var = 1;
 
         check4PowerHit();
+
         if ((y == bm2 + ball_size || y < bm2 + ball_size)
             && (x < L_X - 20 || x > R_X + 20) && slide_2 == 1) {
             cleardevice();
@@ -747,19 +750,18 @@ int moveSlideToPosition(int z) {
         if (bm < 470) {
 
             setcolor(0);
-
             rectangle(L_X, tp, R_X, bm);
             setfillstyle(1, 0);
             fillellipse(x, y, ball_size, ball_size);
+
             y = y + 20;
             tp = tp + 20;
             bm = bm + 20;
-            setcolor(slide_col);
 
+            setcolor(slide_col);
             rectangle(L_X, tp, R_X, bm);
             setfillstyle(ball_style, ball_col); /**/
             fillellipse(x, y, ball_size, ball_size); /**/
-
         } else {
             return 0;
         }
@@ -1007,9 +1009,7 @@ void check4PowerHit() {
         rec_rx[1] = 150;
         rec_y_tp[1] = 100;
         rec_y_bm[1] = 115;
-    }
-
-    if (round == 2) {
+    } else if (round == 2) {
         rec_lx[1] = 50;
         rec_rx[1] = 100;
         rec_y_tp[1] = 100;
@@ -1027,15 +1027,12 @@ void check4PowerHit() {
                 no = 8;
                 rec_lx[p] = 125;
                 rec_rx[p] = 175;
-
             } else {
                 no = 9;
                 rec_lx[p] = 100;
                 rec_rx[p] = 150;
             }
-        }
-
-        if (round == 2) {
+        } else if (round == 2) {
             no = 9;
             rec_lx[p] = 50;
             rec_rx[p] = 100;
@@ -1056,16 +1053,12 @@ void check4PowerHit() {
                     setcolor(0);
                     rectangle(L_X, tp + 15, L_X + 10, tp);
                     rectangle(R_X - 10, tp + 15, R_X, tp);
-                }
-
-                if (p == 74) {
+                } else if (p == 74) {
                     magnate = FALSE;
                     slide_2 = TRUE;
                     rectangle(L_X, tp2, R_X, bm2);
                     //get_gun_power(p);
-                }
-
-                if (p == 25) {
+                } else if (p == 25) {
                     incr_paddle_size = 1;
                     setcolor(0);
                     slide_size += 50;
@@ -1115,9 +1108,7 @@ void check4PowerHit() {
 
                 if (round == 1) {
                     inflateRound1Layout(p);
-                }
-
-                if (round == 2) {
+                } else if (round == 2) {
                     inflateRound2Layout(p);
                 }
 
@@ -1129,9 +1120,7 @@ void check4PowerHit() {
 
                     if (fun_var == 5) {
                         goDownRight();
-                    }
-
-                    if (fun_var == 2) {
+                    } else if (fun_var == 2) {
                         goDownLeft();
                     }
                 }
@@ -1144,9 +1133,7 @@ void check4PowerHit() {
 
                     if (fun_var == 1) {
                         goUpRight();
-                    }
-
-                    if (fun_var == 3) {
+                    } else if (fun_var == 3) {
                         goUpLeft();
                     }
                 }
@@ -1155,21 +1142,14 @@ void check4PowerHit() {
 
                     if (fun_var == 3) {
                         goDownRight();
-                    }
-
-                    if (fun_var == 2) {
+                    } else if (fun_var == 2) {
                         goUpRight();
-                    }
-
-                    if (fun_var == 5) {
+                    } else if (fun_var == 5) {
                         goUpLeft();
-                    }
-
-                    if (fun_var == 1) {
+                    } else if (fun_var == 1) {
                         goDownLeft();
                     }
                 }
-
             }
 
             if (magnate == TRUE
@@ -1243,9 +1223,7 @@ void getMainMenuChoice() {
         play();
     } else if (cho == 50) {
         showOptions();
-    }
-
-    else if (cho == 51) {
+    } else if (cho == 51) {
         showLevelMenu();
     } else if (cho == 52) {
         showRoundsMenu();
@@ -1254,10 +1232,10 @@ void getMainMenuChoice() {
     }
 
     //case 75: highestscore();
-    //	   break;
+    //     break;
 
     // case 76: exit();
-    //	   break;
+    //     break;
 
 }
 
