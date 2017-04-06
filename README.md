@@ -11,7 +11,7 @@
         - Take a look at actual screenshots below, captured by executing source code using Turbo C++ 
           compiler.
 
-####Features:
+#### Features:
         - Rich user interface
         - Complete user controlled UI
         - Lots of options for customizing Ball and Slidebar colors and size
@@ -19,33 +19,33 @@
         - Multiple game rounds
 
 ## Screenshots
-###1. Home screen
+### 1. Home screen
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/01.Screen.png?raw=true)
-###2. Menu screen
+### 2. Menu screen
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/02.Screen.png?raw=true)
-###3. Customize Ball and Slidebar views here
+### 3. Customize Ball and Slidebar views here
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/03.Screen.png?raw=true)
-###4. Customize Ball size
+### 4. Customize Ball size
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/04.Screen.png?raw=true)
-###5. Customize Ball color
+### 5. Customize Ball color
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/05.Screen.png?raw=true)
-###6. Customize Ball style
+### 6. Customize Ball style
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/06.Screen.png?raw=true)
-###7. Customize Slidebar color
+### 7. Customize Slidebar color
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/07.Screen.png?raw=true)
-###8. Customize Slidebar size
+### 8. Customize Slidebar size
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/08.Screen.png?raw=true)
-###9. Choose difficulty level
+### 9. Choose difficulty level
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/09.Screen.png?raw=true)
-###10. Choose game round here
+### 10. Choose game round here
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/10.Screen.png?raw=true)
-###11. Round-1 screen
+### 11. Round-1 screen
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/11.Screen.png?raw=true)
-###12. Round-2 screen with customized Ball and Slidebar
+### 12. Round-2 screen with customized Ball and Slidebar
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/12.Screen.png?raw=true)
-###13. Multiple slide bars at a time makes game a little more harder to play! 
+### 13. Multiple slide bars at a time makes game a little more harder to play! 
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/14.Screen.png?raw=true)
-###14. Screen showing lifes remaining and current score
+### 14. Screen showing lifes remaining and current score
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/15.Screen.png?raw=true)
-###15. Screen showing Game over stage and final score with options to continue or exit the game.
+### 15. Screen showing Game over stage and final score with options to continue or exit the game.
 ![ScreenShot](https://raw.githubusercontent.com/arjunvekariyagithub/DX-BALL/master/Screens/16.Screen.png?raw=true)
