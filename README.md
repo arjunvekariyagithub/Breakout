@@ -1,4 +1,4 @@
-## Breakout
+## Breakout (DX-BALL)
 
         - Breakout is a computer game developed in Turbo C++ using graphics libraries.
         - Thoug developed in C++, It offers immersive user interface and rich features that only 
