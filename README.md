@@ -1,6 +1,6 @@
-## DX-BALL
+## Breakout
 
-        - DX-Ball is a computer game developed in Turbo C++ using graphics libraries.
+        - Breakout is a computer game developed in Turbo C++ using graphics libraries.
         - Thoug developed in C++, It offers immersive user interface and rich features that only 
           animation games can offer.
         - It is easy to develop the same game and UI using game engine tool such as Unity-3D but 
